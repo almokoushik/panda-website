@@ -1,0 +1,37 @@
+
+.card-header{
+    border: none;
+    background-color:white;
+}
+.button-color{
+    width: 7rem;
+    height: 2.7rem;
+    color: white;
+    background-color:#FF3A88;
+    border: none;
+}
+.button-color:hover{
+    border: none;
+}
+.watch-section{
+    background-color:#FFA500;
+    color: white;
+}
+.bags-section{
+    background-color: #DA70D6;
+    color: white;
+}
+.shoes-section{
+    background-color: #0000FF;
+    color: white;
+}
+.white-font{
+    color: white;
+}
+.card-foooter{
+    background-color: #fff;
+    border-top: none;
+}
+.single-shoe-item{
+    border: none;
+}
